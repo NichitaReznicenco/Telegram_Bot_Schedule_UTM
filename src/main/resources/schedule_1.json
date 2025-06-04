@@ -1,0 +1,4132 @@
+{
+  "CIM-241": {
+    "Luni": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematica Discreta\nMelinc V.\n3-3 Aula Amdaris"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Analiza Matematica 2\nPreicop V\n3-3 Aula Amdaris"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 ar. SDA\nZmeu M.\nD-02"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 ar. SDA\nZmeu M.\nD-02"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 ar. MD\nBerghii I.\nD-02"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 ar. MD\nBerghii I.\nD-02"
+      },
+      "11.30-13.00": {
+        "Odd": "sem. MD  \nBerahiil.  \n512",
+        "Even": "Sner. SDA\nZmuem M.\n512",
+        "Both": null
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Structurii de date si algoritmi\nKulev M\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Stráná\n611/613\nA Puscasu\nL Mihail-Velescu"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Grafica pe calculator\nCarbune V\n6-2 Aula Henri Coanda"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. AM\nPricoV.\n611"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": "ED-Fizică",
+        "Both": null
+      },
+      "9.45-11.15": {
+        "Odd": "sew. CSA\nFocela G.\n611",
+        "Even": "semi MS\nPricon V.\n611",
+        "Both": null
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Mecanica Teoretică\nAndronic S.\n6-2 Aula Henri Coandă"
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "1.lab. 0.5 ar. MT\nGorebot R. D-01\n2) lab. 0.5 ar. GC\nUrsu A. D-02"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "1.lab. 0.5 ar. MT\nGorebot R. D-01\n2) lab. 0.5 ar. GC\nUrsu A. D-02"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Comunicare si scriere academica\nFocela G\n\nAula Henri Conadă 6-2"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematici speciale\nPrimoc V\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null
+    }
+  },
+  "CR-241": {
+    "Luni": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematica Discreta\nMelinc V.\n3-3 Aula Amdaris"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Analiza Matematica 2\nPreicop V\n3-3 Aula Amdaris"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab  \n0.5 ar. MD  \nBerghii L.  \nD-04  \n0.5 ar. GC  \nCârbu­ne V.  \n407"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab  \n0.5 ar. MD  \nBerghii L.  \nD-04  \n0.5 ar. GC  \nCârbu­ne V.  \n407"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab 0.5 ar. SDA\nTonu V.\nD-04"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab 0.5 ar. SDA\nTonu V.\nD-04"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "AM2\nStanciu L.\n202"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Structurii de date si algoritmi\nKulev M\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "0.5л.      \nlab. МТ  \nGorbote R  \nD-02"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "0.5л.      \nlab. МТ  \nGorbote R  \nD-02"
+      },
+      "11.30-13.00": {
+        "Odd": "Sme. SDA\nTonkcu V.\n512",
+        "Even": "sem. MD\nBerghii I.\n512",
+        "Both": null
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Grafica pe calculator\nCarbune V\n6-2 Aula Henri Coanda"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Mecanica Teoretică\nAndronic S.\n6-2 Aula Henri Coandă"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Straini\n613/611\nA. Puscau\nA. Mămăliță"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": "Ed. fizică",
+        "Even": "CSA\nLoeaet G.\n607",
+        "Both": null
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Comunicare si scriere academica\nFocela G\n\nAula Henri Conadă 6-2"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematici speciale\nPrimoc V\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": {
+        "Odd": "600",
+        "Even": null,
+        "Both": null
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null
+    }
+  },
+  "CR-242": {
+    "Luni": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematica Discreta\nMelinc V.\n3-3 Aula Amdaris"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Analiza Matematica 2\nPreicop V\n3-3 Aula Amdaris"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L.Enleza˝ 613/611 A.Pascasu LI.Mihail-Velescu"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. AM2\nStanciu L.\n201"
+      },
+      "11.30-13.00": {
+        "Odd": "Sme. MD\nLisini I.\n611",
+        "Even": "Sistem. SDA  \nToncú V.  \n404",
+        "Both": null
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Structurii de date si algoritmi\nKulev M\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Grafica pe calculator\nCarbune V\n6-2 Aula Henri Coanda"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "1) lab. 0.5 g ar. MT\nGorabet R.\nD-02\n\n2) lab. 0.5 g ar. SDA\nToncu V.\nD-04"
+      },
+      "17.00-18.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "1) lab. 0.5 g ar. MT\nGorabet R.\nD-02\n\n2) lab. 0.5 g ar. SDA\nToncu V.\nD-04"
+      },
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "1.lab. 0.5 gar. GC\nUrsu A\nD-02\n2) lab. 0.5 ar. MD\nLisnici I.\nD-04"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "1.lab. 0.5 gar. GC\nUrsu A\nD-02\n2) lab. 0.5 ar. MD\nLisnici I.\nD-04"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Mecanica Teoretică\nAndronic S.\n6-2 Aula Henri Coandă"
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": "CSA\nFloecca G.\n613",
+        "Even": "Ed. fizič",
+        "Both": null
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Comunicare si scriere academica\nFocela G\n\nAula Henri Conadă 6-2"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematici speciale\nPrimoc V\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": "Pricip V. 606",
+        "Both": null
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null
+    }
+  },
+  "SI-241": {
+    "Luni": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematica Discreta\nMelinc V.\n3-3 Aula Amdaris"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Analiza Matematica 2\nPreicop V\n3-3 Aula Amdaris"
+      },
+      "13.30-15.00": {
+        "Odd": "ED-Fizica",
+        "Even": "sem. MD\nPalamarticu N.\n607",
+        "Both": null
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 ar. MD\nPalamariuc N.\n608"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 ar. MD\nPalamariuc N.\n608"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Structurii de date si algoritmi\nKulev M\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L'Enleza  \n611/613  \nL.Dutova  \nA Mamálíčka"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. AM\nStandic L.\n606"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Criptografie\nZgureanu A.\n101"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "0.5gr.\nlab. MT\nGorobet R\nD-02"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "0.5gr.\nlab. MT\nGorobet R\nD-02"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Mecanica Teoretică\nAndronic S.\n6-2 Aula Henri Coandă"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 gr. SDA\nRotar A. 110\nlab. 0.5 gr. Cryptocr Madda O. 112"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 gr. SDA\nRotar A. 110\nlab. 0.5 gr. Cryptocr Madda O. 112"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": {
+        "Odd": "Came. CSA\nFloor 9\n606",
+        "Even": null,
+        "Both": null
+      },
+      "9.45-11.15": {
+        "Odd": "Sme. SDA\nRotar  A.\n606",
+        "Even": "Stanley L. 606",
+        "Both": null
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Comunicare si scriere academica\nFocela G\n\nAula Henri Conadă 6-2"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematici speciale\nPrimoc V\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null
+    }
+  },
+  "SI-242": {
+    "Luni": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematica Discreta\nMelinc V.\n3-3 Aula Amdaris"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Analiza Matematica 2\nPreicop V\n3-3 Aula Amdaris"
+      },
+      "13.30-15.00": {
+        "Odd": "sem. MD\nPalamarticu N\n607",
+        "Even": "ED-Fizicà",
+        "Both": null
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": "sem. SDA\nRotari A.\n611",
+        "Both": null
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Structurii de date si algoritmi\nKulev M\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": ".lab 0.5 gr. MD  \nPalamarcuc N  \nD-02  \nlab 0.5 gr. SDA  \nRotari A.  \nD-04"
+      },
+      "17.00-18.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": ".lab 0.5 gr. MD  \nPalamarcuc N  \nD-02  \nlab 0.5 gr. SDA  \nRotari A.  \nD-04"
+      },
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Enlezaș  \n611 / 613  \nMihail-Velescu  \nC. Tintiu"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Criptografie\nZgureanu A.\n101"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 gr. Cryptographie  \nMagdei O.  \nD-04"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 gr. Cryptographie  \nMagdei O.  \nD-04"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": {
+        "Odd": "sew. CSA\nLoceae Gr. 312",
+        "Even": "semt. MS\nStanciu L.\n312",
+        "Both": null
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "AM2\nStanciu L.\n312"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Mecanica Teoretică\nAndronic S.\n6-2 Aula Henri Coandă"
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Comunicare si scriere academica\nFocela G\n\nAula Henri Conadă 6-2"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematici speciale\nPrimoc V\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 ogr. MT\nGorobet R.\nD-02"
+      },
+      "17.00-18.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 ogr. MT\nGorobet R.\nD-02"
+      },
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null
+    }
+  },
+  "EA-241": {
+    "Luni": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematica Discreta\nMelinc V.\n3-3 Aula Amdaris"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Analiza Matematica 2\nPreicop V\n3-3 Aula Amdaris"
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. AM2\nStanciu\n606"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. MD\nLisnic. L\n518"
+      },
+      "11.30-13.00": {
+        "Odd": "sem. SD\nMiteuul V.\n606",
+        "Even": "sem. MD\nLisnic I.\n606",
+        "Both": null
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Structurii de date si algoritmi\nKulev M\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lm. MT  \nBalan V.  \n407"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. SDA\nMitteli V.\n110"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Grafica pe calculatoare\nCarbune V\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. Cc\nOsvoschi M.\n407"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Mecanica Teoretică\nAndronic S.\n6-2 Aula Henri Coandă"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L'enleza  \nA. Sisiana  \n606"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": "sem. MS\nPricop V.\n613",
+        "Both": null
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Comunicare si scriere academica\nFocela G\n\nAula Henri Conadă 6-2"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematici speciale\nPrimoc V\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": {
+        "Odd": "sem. CSA\nFLOCEA Gr.\n611",
+        "Even": "Ed. fizică",
+        "Both": null
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null
+    }
+  },
+  "MN-241": {
+    "Luni": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematica Discreta\nMelinc V.\n3-3 Aula Amdaris"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Analiza Matematica 2\nPreicop V\n3-3 Aula Amdaris"
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. AM2\nStanciu\n606"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. SBA\nMitttel V. 503"
+      },
+      "11.30-13.00": {
+        "Odd": "sem. SD\nMiteuul V.\n606",
+        "Even": "sem. MD\nLisnic I.\n606",
+        "Both": null
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Structurii de date si algoritmi\nKulev M\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. GC\nOosvoschi M.\n112"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. MT\nBalan V.\n407"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Grafica pe calculatoare\nCarbune V\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Mecanica Teoretică\nAndronic S.\n6-2 Aula Henri Coandă"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. MD\nLisinc I.\n407"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Straïnā\nA Sīsīnā\n606"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": "sem. MS\nPricop V.\n613",
+        "Both": null
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Comunicare si scriere academica\nFocela G\n\nAula Henri Conadă 6-2"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematici speciale\nPrimoc V\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": {
+        "Odd": "sem. CSA\nFLOCEA Gr.\n611",
+        "Even": "Ed. fizică",
+        "Both": null
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null
+    }
+  },
+  "IBM-241": {
+    "Luni": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. SDA\nZmei M.\n110"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sram. AM2\nStancia Lt.\n606"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Analiza Matematica 2\nPreicop V\n3-3 Aula Amdaris"
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Structurii de date si algoritmi\nKulev M\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Biologie Biochimie\nZgardan D.\n401"
+      },
+      "17.00-18.30": {
+        "Odd": "c. Biologie Biochimie\nZgardan D.\n401",
+        "Even": null,
+        "Both": null
+      },
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. MD  \nBalan V.  \n215"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "BB\nSciflos A.\n5-114"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. GC\nOsvoschi M.\n215"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Grafica pe calculatoare\nCarbune V\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": "ED-Fizică",
+        "Even": null,
+        "Both": null
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Mecanica Teoretică\nAndronic S.\n6-2 Aula Henri Coandă"
+      },
+      "13.30-15.00": {
+        "Odd": "CSA  \nFloeqa G.  \n312",
+        "Even": "seel ms\nPricoe V.\n312",
+        "Both": null
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": "Svem. SDA\nZmeu M.\n405",
+        "Both": null
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L Štraņā\nA Sīsiāna\n\n611"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Comunicare si scriere academica\nFocela G\n\nAula Henri Conadă 6-2"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematici speciale\nPrimoc V\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null
+    }
+  },
+  "IBM-242": {
+    "Luni": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": {
+        "Odd": "mes. MS\nStanciu L.\n611",
+        "Even": "seim. CSA  \nCárbune N.  \n611",
+        "Both": null
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "CSA\nCârbeni. N\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. SDA\nFalcon N.\n6-2 Aula Henri Coandă"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "GC\nRotaura L.\n3-3 Aula Amadaris"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Biologie Biochimie\nZgardan D.\n401"
+      },
+      "17.00-18.30": {
+        "Odd": "c. Biologie Biochimie\nZgardan D.\n401",
+        "Even": null,
+        "Both": null
+      },
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab BB\nScifors A\n5-114"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. GC\nSubbotchin A.\n628"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L Română\nH Rainbowu E\n606"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem AM2\nOrlov V.\n606"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "Enleza  \nC. Tintiuc  \n611"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. MT\nStrucova T.\n628"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "MS\nDohotaru L.\n104"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": "ED-Fizica",
+        "Both": null
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. AM2\nOrlov V.\n6-2 Aula Henri Coandă"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. MT\nRusu v.\n104"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. SDA\nrazodioroina O.\n628"
+      },
+      "15.15-16.45": {
+        "Odd": "sem. SDA\nRazdozoraiia O.\n607",
+        "Even": null,
+        "Both": null
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null
+    }
+  },
+  "TI-241": {
+    "Luni": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Analiza matematică 2\nA. Costas\n6-2 Aula Henri Coandă"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. AM 2\nCostas A\n202"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 or GC \n6-414 A \nBodnariuc I."
+      },
+      "17.00-18.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 or GC \n6-414 A \nBodnariuc I."
+      },
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Grafica pe calculatoare\nBodnarc I.\n6-2 Aula Henri Coandă"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematica Discretă\nCeban G\n6-2 Aula Henri Coandă"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": ". 1 lab. 0.5 gr MD\nCeban G. 110\n. 2 lab. 0.5 gr MT\nBalmas I. 114"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": ". 1 lab. 0.5 gr MD\nCeban G. 110\n. 2 lab. 0.5 gr MT\nBalmas I. 114"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. strážní\nDutová L.\nTinutí C.\n606/613"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematici Speciale\nCostas A.\n3-3 Aula Am adaris"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Mecanica Teoretică\nAndronic S.\n3-3 Aula Amadaris"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": {
+        "Odd": "Ed. fizič",
+        "Even": "CSA\nBarcari D.\n607",
+        "Both": null
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Comunicare și scrierea academică\nBarcari D.\n3-3 Aula Amdaris"
+      },
+      "11.30-13.00": {
+        "Odd": "MD  \nCeban G.",
+        "Even": "MS\nCostas A\n202",
+        "Both": null
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": {
+        "Odd": "Sme. SDA\nStratulat S.\n401",
+        "Even": null,
+        "Both": null
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Structuri de date si algoritmi\nStraturile St.\n6-2 Aula Henri Coanda"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab 0.5 or SDA\nStratulat St.\nD-01"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab 0.5 or SDA\nStratulat St.\nD-01"
+      },
+      "15.15-16.45": null
+    }
+  },
+  "TI-242": {
+    "Luni": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. AM 2\nCostas A.\n402"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Analiza matematică 2\nA. Costas\n6-2 Aula Henri Coandă"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "0.5 ar MD\nCeban G\n112\n0.5 ar MT\nBalmus I.\n427"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "0.5 ar MD\nCeban G\n112\n0.5 ar MT\nBalmus I.\n427"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Grafica pe calculatoare\nBodnarc I.\n6-2 Aula Henri Coandă"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematica Discretă\nCeban G\n6-2 Aula Henri Coandă"
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 gr GC  \nBodnariuc I.  \n6-414 A  \nlab. 0.5 gr GC  \nStruňa V.  \n112"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 gr GC  \nBodnariuc I.  \n6-414 A  \nlab. 0.5 gr GC  \nStruňa V.  \n112"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematici Speciale\nCostas A.\n3-3 Aula Am adaris"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Mecanica Teoretică\nAndronic S.\n3-3 Aula Amadaris"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": {
+        "Odd": "semp. CSA\nBarcari D.\n607",
+        "Even": "Ed. fizică",
+        "Both": null
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Comunicare și scrierea academică\nBarcari D.\n3-3 Aula Amdaris"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Strainà\nDutova L.\nTintuc C.\n611/613"
+      },
+      "13.30-15.00": {
+        "Odd": "med. MD\nCeban G\n201",
+        "Even": "MS Costas A. 202",
+        "Both": null
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": "sem. SDA\nPriiievshi D.\n401",
+        "Both": null
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Structuri de date si algoritmi\nStraturile St.\n6-2 Aula Henri Coanda"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 or SDA\nPrilievschi D.\nD-02"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 or SDA\nPrilievschi D.\nD-02"
+      },
+      "15.15-16.45": null
+    }
+  },
+  "TI-243": {
+    "Luni": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "1.0 5 g MR\nBalamus I.\nD-01\n\n0.5 g MD\nRotaru M.\nD-03"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "1.0 5 g MR\nBalamus I.\nD-01\n\n0.5 g MD\nRotaru M.\nD-03"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Analiza matematică 2\nA. Costas\n6-2 Aula Henri Coandă"
+      },
+      "13.30-15.00": {
+        "Odd": "sem. MD\nRotaru M.\n606",
+        "Even": null,
+        "Both": null
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem.AM 2\nCostas A.\n402"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Grafica pe calculatoare\nBodnarc I.\n6-2 Aula Henri Coandă"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematica Discretă\nCeban G\n6-2 Aula Henri Coandă"
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 gr GC  \nBodnariuc I.  \n6-414 A  \nlab. 0.5 gr GC  \nStruňa V.  \n112"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 gr GC  \nBodnariuc I.  \n6-414 A  \nlab. 0.5 gr GC  \nStruňa V.  \n112"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematici Speciale\nCostas A.\n3-3 Aula Am adaris"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Mecanica Teoretică\nAndronic S.\n3-3 Aula Amadaris"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Stráňai\nDutová L.\nSisanua A.\n611/613"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Comunicare și scrierea academică\nBarcari D.\n3-3 Aula Amdaris"
+      },
+      "11.30-13.00": {
+        "Odd": "MS Costas A. 402",
+        "Even": "Ed. fizică",
+        "Both": null
+      },
+      "13.30-15.00": {
+        "Odd": "Sew. CSA\nBarcari D.\n630",
+        "Even": null,
+        "Both": null
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": "sem. SDA\nMantallatú M.\n402",
+        "Both": null
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Structuri de date si algoritmi\nStraturile St.\n6-2 Aula Henri Coanda"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 or SDA\nMantalutá M.\nD-03"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 or SDA\nMantalutá M.\nD-03"
+      },
+      "15.15-16.45": null
+    }
+  },
+  "TI-244": {
+    "Luni": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Analiza matematică 2\nA. Costas\n6-2 Aula Henri Coandă"
+      },
+      "13.30-15.00": {
+        "Odd": "case. SMA\nBarcani D.\n611",
+        "Even": "Rotate M.\n606",
+        "Both": null
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 or MD\nRotaru M.\nD-03"
+      },
+      "17.00-18.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 or MD\nRotaru M.\nD-03"
+      },
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Grafica pe calculatoare\nBodnarc I.\n6-2 Aula Henri Coandă"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematica Discretă\nCeban G\n6-2 Aula Henri Coandă"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "1 lab. 0.5 gr GC\nStruna V\n215\n2 lab. 0.5 gr MT\nBuca A\n407"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "1 lab. 0.5 gr GC\nStruna V\n215\n2 lab. 0.5 gr MT\nBuca A\n407"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "AM 2\nCostas A.\n402"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematici Speciale\nCostas A.\n3-3 Aula Am adaris"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Mecanica Teoretică\nAndronic S.\n3-3 Aula Amadaris"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Comunicare și scrierea academică\nBarcari D.\n3-3 Aula Amdaris"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Štraňa\nSisarina A\nPuscas A\n624/630"
+      },
+      "13.30-15.00": {
+        "Odd": "MS Costas A. 202",
+        "Even": "Ed. fizică",
+        "Both": null
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": {
+        "Odd": "seml. SDA\nRotaru A.\n402",
+        "Even": null,
+        "Both": null
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Structuri de date si algoritmi\nStraturile St.\n6-2 Aula Henri Coanda"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 or SDA\nRotaru A.\nD-04"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 or SDA\nRotaru A.\nD-04"
+      },
+      "15.15-16.45": null
+    }
+  },
+  "TI-245": {
+    "Luni": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": {
+        "Odd": "MS Costa's A 224",
+        "Even": null,
+        "Both": null
+      },
+      "9.45-11.15": {
+        "Odd": "cert. CSA\nBarcari D.\n202",
+        "Even": null,
+        "Both": null
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Analiza matematică 2\nA. Costas\n6-2 Aula Henri Coandă"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "1. 0.5 g, MT\nBuga, 502\n2. 0.5 g, GC\nStruňa V., 502"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "1. 0.5 g, MT\nBuga, 502\n2. 0.5 g, GC\nStruňa V., 502"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Straiňa\n0.5ar\nDutova L.\n623"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Grafica pe calculatoare\nBodnarc I.\n6-2 Aula Henri Coandă"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematica Discretă\nCeban G\n6-2 Aula Henri Coandă"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Štraňa\nTinctura C.\n0.5gr.\n607"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematici Speciale\nCostas A.\n3-3 Aula Am adaris"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Mecanica Teoretică\nAndronic S.\n3-3 Aula Amadaris"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. MD\nCeban G.\nD-02-04"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. AM 2\nCostas A.\n202"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Comunicare și scrierea academică\nBarcari D.\n3-3 Aula Amdaris"
+      },
+      "11.30-13.00": {
+        "Odd": "Ed. fiziča",
+        "Even": "MD  \nCeban G.",
+        "Both": null
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": {
+        "Odd": "semi. SDA\nBruma M.\n202",
+        "Even": null,
+        "Both": null
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Structuri de date si algoritmi\nStraturile St.\n6-2 Aula Henri Coanda"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 or SDA\nBruma M.\n110"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 or SDA\nBruma M.\n110"
+      },
+      "15.15-16.45": null
+    }
+  },
+  "SI-243": {
+    "Luni": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": {
+        "Odd": "Ed. Fiziča",
+        "Even": "SMS  \nA. Costas  \n202",
+        "Both": null
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. MT\nBuda A.\n502"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Analiza matematică 2\nA. Costas\n6-2 Aula Henri Coandă"
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "C. Critoografie\nZauereanu A\n101"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematica Discretă\nCeban G\n6-2 Aula Henri Coandă"
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "AM 2\nCostas A\n404"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Stráňain\nPuscas A.\nVelescu L.\n404/607"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematici Speciale\nCostas A.\n3-3 Aula Am adaris"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Mecanica Teoretică\nAndronic S.\n3-3 Aula Amadaris"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. Criot.  \nTocan A  \n217"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Comunicare și scrierea academică\nBarcari D.\n3-3 Aula Amdaris"
+      },
+      "11.30-13.00": {
+        "Odd": "CSA\nBarcari D.\n606",
+        "Even": "sem. MD Viniar A. 607",
+        "Both": null
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "MD Vinari A. 502"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": "Smen. SDA\nToncu V.\n202",
+        "Both": null
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Structuri de date si algoritmi\nStraturile St.\n6-2 Aula Henri Coanda"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. SDA\nToncu V.\n114"
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null
+    }
+  },
+  "FI-241": {
+    "Luni": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. AM 2\nMelnic V.\n622"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Strainá\nIstrati D.\n622"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sRM. AM 2\nMelvic V.\n622"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. SDA\nRusy v.\n622"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. GC\nStruňá V.\n622"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. MS  \nChircu P  \n622"
+      },
+      "15.15-16.45": {
+        "Odd": "ms. MS Chircu P. 622",
+        "Even": null,
+        "Both": null
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. MT\nBalmus I.\n622"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "6-2 Aula Henri Coandă"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. MD\nCeban G.\n6-2 Aula Henri Coandă"
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": "Ed. Fizică",
+        "Even": "GontA A. 622",
+        "Both": null
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c/. CSA\nGonta A.\n622"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "MT\nAndorra S.\n3-3 Aula Amadris"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. SDA\nRusv V.\n622"
+      },
+      "13.30-15.00": {
+        "Odd": "sem. SDA  \nRusu V.  \n622",
+        "Even": "sem. MD\nCeban G\n622",
+        "Both": null
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "ldab MD\nCeban G\n622"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null
+    }
+  },
+  "TI-246": {
+    "Luni": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Enlezaña  \nTintuc C.  \nVelasco U.  \n607613"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "1 lab. 0.5 gr. MT\nRusu V.\nD-01\n\n2) lab. 0.5 gr. aG\nSubbotchin V.\nD-03"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "1 lab. 0.5 gr. MT\nRusu V.\nD-01\n\n2) lab. 0.5 gr. aG\nSubbotchin V.\nD-03"
+      },
+      "13.30-15.00": {
+        "Odd": "Ed. fizičar",
+        "Even": null,
+        "Both": null
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematici Speciale\nOrlov V.\n310"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Mecanica Teoretică\nRusu V.\n310"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. MD\nThiloz T.\nD-01"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. MD\nThiloz T.\nD-01"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. AM 2\nDohatari L.\n202"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Analiza Matemàtica\nDonatoru L.\n310"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Grafică pe calculator\nNastas A.\n310"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Română\nHodiniu E.\n624"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. SDA  \nDani lovl.  \n310"
+      },
+      "9.45-11.15": {
+        "Odd": "med. SM. Tihola'z T. 512",
+        "Even": "semt. SDA\nDaniov I.\n624",
+        "Both": null
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab 0.5 or SDA\nDanilov I.\nD-01"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab 0.5 or SDA\nDanilov I.\nD-01"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "Matemática Discreta\nMarusic G.\n310"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Comunicare si scriere academică\nMaistru R\n310"
+      },
+      "13.30-15.00": {
+        "Odd": "secm. CSA\nNeaur N.\n606",
+        "Even": "ms. MS\nOrlov V.\n606",
+        "Both": null
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null
+    }
+  },
+  "TI-247": {
+    "Luni": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "1) lab 0.5 g ar. MD  \nTiholaZ T.  \nD-02\n\n2) lab 0.5 g ar. SDA  \nBrinzan L.  \nD-04"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "1) lab 0.5 g ar. MD  \nTiholaZ T.  \nD-02\n\n2) lab 0.5 g ar. SDA  \nBrinzan L.  \nD-04"
+      },
+      "13.30-15.00": {
+        "Odd": "Sme. SDA  \nBrinzam L.  \n606",
+        "Even": "med Tiholaz T. 606",
+        "Both": null
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Enleža  \nMāmmalāta A.  \nVelescul L.  \n606/607"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematici Speciale\nOrlov V.\n310"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Mecanica Teoretică\nRusu V.\n310"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. MT\nRusso V.\nD-03"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. MT\nRusso V.\nD-03"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Română  \nHodintu E.  \n607"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Analiza Matemàtica\nDonatoru L.\n310"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Grafică pe calculator\nNastas A.\n310"
+      },
+      "13.30-15.00": {
+        "Odd": "Ed. fizică",
+        "Even": null,
+        "Both": null
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. SDA  \nDani lovl.  \n310"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "AM 2\nDohotanu L.\n202"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab 0.5 of gc\nSubbotchin A\nD-03"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab 0.5 of gc\nSubbotchin A\nD-03"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "Matemática Discreta\nMarusic G.\n310"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Comunicare si scriere academică\nMaistru R\n310"
+      },
+      "13.30-15.00": {
+        "Odd": "MS Orlov V. 607",
+        "Even": "CSA\nNeaur N.\n607",
+        "Both": null
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null
+    }
+  },
+  "TI-248": {
+    "Luni": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. enalezà\nTintucà C. 0.5ar.\n613"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "1) lab 0.5 g. mrt. \nRusv. D-01\n2) lab 0.5 g. GC. \nSubbotchin V. D-03"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "1) lab 0.5 g. mrt. \nRusv. D-01\n2) lab 0.5 g. GC. \nSubbotchin V. D-03"
+      },
+      "17.00-18.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. enlezaž 0.5a Mamalina A. 607"
+      },
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematici Speciale\nOrlov V.\n310"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Mecanica Teoretică\nRusu V.\n310"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Română\nHodiniu E.\n312"
+      },
+      "13.30-15.00": {
+        "Odd": "Ed. Fizică",
+        "Even": null,
+        "Both": null
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Analiza Matemàtica\nDonatoru L.\n310"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Grafică pe calculator\nNastas A.\n310"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "AM 2\nDohatnu L\n202"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. SDA  \nDani lovl.  \n310"
+      },
+      "9.45-11.15": {
+        "Odd": "Shem. SDA\nBrinzan L.\n624",
+        "Even": "sem. MD\nTihola Z T.\n512",
+        "Both": null
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "1) lab 0.5 qr MD ThiloazT. D-02\n2) lab 0.5 qr SDA Brinzian L. D-04"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "1) lab 0.5 qr MD ThiloazT. D-02\n2) lab 0.5 qr SDA Brinzian L. D-04"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": {
+        "Odd": "sem. MS\nOrlov V.\n312",
+        "Even": "CSA\nMaistru R.\n312",
+        "Both": null
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "Matemática Discreta\nMarusic G.\n310"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Comunicare si scriere academică\nMaistru R\n310"
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null
+    }
+  },
+  "CIM-242": {
+    "Luni": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Română\nHodinuț E.\n312"
+      },
+      "11.30-13.00": {
+        "Odd": "CSA\nCárbune N\n010",
+        "Even": "Ed. Fizică",
+        "Both": null
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Comunicrare și Scrierea Academică\nCărubne N\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Structurii de date si algoritmi\nFalco N.\n6-2 Aula Henri Coandă"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": "sem. SDA\nRadozorinoia O.\n401",
+        "Both": null
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. SDA  \nRazordiorina O.  \n114"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Grafica pe Calculator\nRotaru I\n3-3 Aula Amdaris"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. MT\nStrucova T.\n114"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. AM 2\nOrlov V.\n312"
+      },
+      "11.30-13.00": {
+        "Odd": "MS Dohotaru L. 0 312",
+        "Even": "semi. MD\nPaslari M.\n312",
+        "Both": null
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematici Speciale\nDhodarul\n  104"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematica Discretă\nCeban Gh\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. GC\nSubbotchin A.\n114"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lah. MD\nPaslari M.\n114"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Analiza Matematică 2\nOrlov V\n6-2 Aula Henri Coandă"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Mecanica Teoretică\nRusu V\n104"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Străină  \nTinduca C.  \nDutovă L.  \n613/611"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null
+    }
+  },
+  "CR-243": {
+    "Luni": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": "CSA\nCárdena N.",
+        "Even": "Ed. Fizică",
+        "Both": null
+      },
+      "11.30-13.00": {
+        "Odd": "med. Md  \nPaslari M.  \n402",
+        "Even": "MS Stanciu L. 402",
+        "Both": null
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Comunicrare și Scrierea Academică\nCărubne N\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Structurii de date si algoritmi\nFalco N.\n6-2 Aula Henri Coandă"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": "sem. SDA  \nRazdoriala O.  \n401",
+        "Both": null
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "1 lab. 0.5 of MT\nStrucova T. 110\n2 lab. 0.5 of GC\nSubbotchin V. 112"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "1 lab. 0.5 of MT\nStrucova T. 110\n2 lab. 0.5 of GC\nSubbotchin V. 112"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Grafica pe Calculator\nRotaru I\n3-3 Aula Amdaris"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Enlezaş\nSıandra A.\n0.5 ar.\n624"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Română\nHodinuț E.\n624"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. AM 2\nOrlov V.\n624"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Enaleza\n0.5oz.\nPusca A.\n611"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 ar sDA\nRazdoroianaa O.\nD-01"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 ar sDA\nRazdoroianaa O.\nD-01"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematici Speciale\nDhodarul\n  104"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematica Discretă\nCeban Gh\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Analiza Matematică 2\nOrlov V\n6-2 Aula Henri Coandă"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Mecanica Teoretică\nRusu V\n104"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab 0.5 or MD\nPaslari M.\nD-01"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab 0.5 or MD\nPaslari M.\nD-01"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null
+    }
+  },
+  "CIM-243": {
+    "Luni": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": "md Paslari M. 611",
+        "Even": null,
+        "Both": null
+      },
+      "11.30-13.00": {
+        "Odd": "Stanciu L.",
+        "Even": "CSA\nCárbune N\n611",
+        "Both": null
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Comunicrare și Scrierea Academică\nCărubne N\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Structurii de date si algoritmi\nFalco N.\n6-2 Aula Henri Coandă"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": "Ed. Fižíča",
+        "Both": null
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "md. MD\nPaslari M\n407"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Grafica pe Calculator\nRotaru I\n3-3 Aula Amdaris"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. GC\nSubbotichin V.\n628"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Română\nHodiniu E\n606"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. AM 2\nOrlov V.\n606"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Enlezá\nTintuca C.\n611"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. MT\nStrucova T.\n628"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematici Speciale\nDhodarul\n  104"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematica Discretă\nCeban Gh\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Analiza Matematică 2\nOrlov V\n6-2 Aula Henri Coandă"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Mecanica Teoretică\nRusu V\n104"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. SDA\nrazoridonnaia O.\n628"
+      },
+      "15.15-16.45": {
+        "Odd": "sem. SDA\nRadozioraina O.\n613",
+        "Even": null,
+        "Both": null
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null
+    }
+  },
+  "SI-244": {
+    "Luni": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. Criptografía\nNirca D.\n114"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Comunicrare și Scrierea Academică\nCărubne N\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Structurii de date si algoritmi\nFalco N.\n6-2 Aula Henri Coandă"
+      },
+      "17.00-18.30": {
+        "Odd": "Sem. SDA\nCazac A\n402",
+        "Even": null,
+        "Both": null
+      },
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": {
+        "Odd": "CSA\nCárbune N.\n405",
+        "Even": "Sem. R. MD\nPaslari M.\n402",
+        "Both": null
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Română\nHodinuțu E.\n312"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "Sem. AM 2\nOrlov V.\n402"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lb. MD\nPaslari M.\n215"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Cryptografe\nZugreenu A.\n101"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. SDA  \nCazaca A.  \n114"
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": "Ed. Fizică",
+        "Both": null
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematici Speciale\nDhodarul\n  104"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematica Discretă\nCeban Gh\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": "Stenc. MS\nStanciu L.\n402",
+        "Both": null
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Analiza Matematică 2\nOrlov V\n6-2 Aula Henri Coandă"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Mecanica Teoretică\nRusu V\n104"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. MT\nStrucova T.\n114"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Enleža\nDutova L.\n624"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null
+    }
+  },
+  "SI-245": {
+    "Luni": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. Criptografie Nirca D. 114"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. SDA\nCazaca A.\n407"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Comunicrare și Scrierea Academică\nCărubne N\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Structurii de date si algoritmi\nFalco N.\n6-2 Aula Henri Coandă"
+      },
+      "17.00-18.30": {
+        "Odd": "Sem. SDA\nCazac A\n402",
+        "Even": null,
+        "Both": null
+      },
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": {
+        "Odd": "CSA  \nCárbune N.  \n405",
+        "Even": "Sem. R. MD\nPaslari M.\n402",
+        "Both": null
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. MD  \nPaslari M.  \n114"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "Sem. AM 2\nOrlov V.\n402"
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Cryptografe\nZugreenu A.\n101"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. MT\nStrucova T.\n427"
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "Ed. Fiziça"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Straină\nMămăliță A.\n614"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematici Speciale\nDhodarul\n  104"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematica Discretă\nCeban Gh\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": "Stenc. MS\nStanciu L.\n402",
+        "Both": null
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Analiza Matematică 2\nOrlov V\n6-2 Aula Henri Coandă"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Mecanica Teoretică\nRusu V\n104"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Română\nHoditnu E\n312"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null
+    }
+  },
+  "IA-244": {
+    "Luni": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "1) lab. 0.5 g GC Bukicovski E 110\n2) lab. 0.5 g SDA Falico N. 112"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "1) lab. 0.5 g GC Bukicovski E 110\n2) lab. 0.5 g SDA Falico N. 112"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Comunicrare și Scrierea Academică\nCărubne N\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Structurii de date si algoritmi\nFalco N.\n6-2 Aula Henri Coandă"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": "CSA\nCárdenas N.\n401",
+        "Even": "AM 2\nOrlov V.\n606",
+        "Both": null
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Teknologi Web\nBobiccy Y.\n614"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Grafica pe Calculator\nRotaru L\n3-3 Aula Amandis"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": "Ed. Fizică",
+        "Even": null,
+        "Both": null
+      },
+      "11.30-13.00": {
+        "Odd": "sem. MD \nPaslari M. \n630",
+        "Even": "sme. SDA\nFalico N.\n630",
+        "Both": null
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "1) lab. 0.5 gr TWeb Bucovskih E D-01\n2) lab. 0.5 gr MD Paslari M. D-03"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "1) lab. 0.5 gr TWeb Bucovskih E D-01\n2) lab. 0.5 gr MD Paslari M. D-03"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Programare Procedurală\nBranise R\n614"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematica Discretă\nCeban Gh\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 ar.\nProgramare Procedurala\nStrunov I.\nD-01"
+      },
+      "17.00-18.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 ar.\nProgramare Procedurala\nStrunov I.\nD-01"
+      },
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Stràňa\n0.5er.\nMámálená A.\n2011"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Analiza Matematică 2\nOrlov V\n6-2 Aula Henri Coandă"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Română\nHodiniu E.\n623"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Stràňá\nSisiana A.\n0.5 ATM\n624"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null
+    }
+  },
+  "SD-242": {
+    "Luni": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": "med. SM. Paslani M. 611",
+        "Even": "señ. CSA\nCárdena N.\n611",
+        "Both": null
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Română\nHodiniu E.\n312"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Comunicrare și Scrierea Academică\nCărubne N\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Structurii de date si algoritmi\nFalco N.\n6-2 Aula Henri Coandă"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": "sem. AM 2\nOrlov V.\n606",
+        "Even": null,
+        "Both": null
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Teknologi Web\nBobiccy Y.\n614"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Grafica pe Calculator\nRotaru L\n3-3 Aula Amandis"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "1 lab. 0.5 gr MD Paslari M. D-01\n2 lab. 0.5 gr tWeb Bucicovschi E. D-03"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "1 lab. 0.5 gr MD Paslari M. D-01\n2 lab. 0.5 gr tWeb Bucicovschi E. D-03"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 gr sa SDA Razdorinoia O. 112"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. 0.5 gr sa SDA Razdorinoia O. 112"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": "Ed. Fizică",
+        "Both": null
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Programare Procedurală\nBranise R\n614"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematica Discretă\nCeban Gh\n6-2 Aula Henri Coandă"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L Štraňă\nMămălița A.\nPucsasca A.\n611/613"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Analiza Matematică 2\nOrlov V\n6-2 Aula Henri Coandă"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "1 lab. 0.5 gr GC  \nBucovskih E.  \nD-02  \n2 lab. 0.5 gr PP  \nBraniste R.  \nD-04"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "1 lab. 0.5 gr GC  \nBucovskih E.  \nD-02  \n2 lab. 0.5 gr PP  \nBraniste R.  \nD-04"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": "sem. SDA\nRadozorinaia O.\n613",
+        "Both": null
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null
+    }
+  },
+  "IA-241": {
+    "Luni": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab 0.5 gr  \n1) PP  \nBraniste R  \n608  \n2) SDA  \nGutu M.  \n503"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab 0.5 gr  \n1) PP  \nBraniste R  \n608  \n2) SDA  \nGutu M.  \n503"
+      },
+      "11.30-13.00": {
+        "Odd": "secl. SDA\nGutu M. 624",
+        "Even": "sem. SDA\nGatu M.\n606",
+        "Both": null
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Structuri de Date și Algoritmi\nBurlacu N\n104"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Comunicare și Scriere Academică\nBarcăci D.\n104"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": "611",
+        "Both": null
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Grafica pe Calculator\nNastas A.\n104"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Analiza Matematica 2\nVacaras O\n104"
+      },
+      "13.30-15.00": {
+        "Odd": "sem. AM\nVacaras O.",
+        "Even": "Ed. fizicá",
+        "Both": null
+      },
+      "15.15-16.45": {
+        "Odd": "E. Enelza Puscas A. 607",
+        "Even": "med. SD Tiholaz T. 613",
+        "Both": null
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "Enaleža\n0.5 mg\nVelescu L.\n607"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Programarea Procedurală\nBraniște R\n101"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab 0.5 gr  \n1) TWeb  \nBucivocvshi E.  \n503\n\n2) GC  \nNastas A.  \n427"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab 0.5 gr  \n1) TWeb  \nBucivocvshi E.  \n503\n\n2) GC  \nNastas A.  \n427"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematica Discretă  \nMarusić G  \n104"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Teknologi Web\nBobiccyV\n104"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab 0.5 ar.\nMD\nThiolaz T.\nD-03"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab 0.5 ar.\nMD\nThiolaz T.\nD-03"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null
+    }
+  },
+  "IA-242": {
+    "Luni": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab 0.5 gr\n1) GC\nUrsu A. 407\n2) Pp\nRotari A. 215"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab 0.5 gr\n1) GC\nUrsu A. 407\n2) Pp\nRotari A. 215"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": "sem. SDA\nGatu M.\n606",
+        "Both": null
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Structuri de Date și Algoritmi\nBurlacu N\n104"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Comunicare și Scriere Academică\nBarcăci D.\n104"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab 0.5 gr.\nSDA\nGutu M.\n407"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab 0.5 gr.\nSDA\nGutu M.\n407"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": "AM 2\nVacarlas O.\n404",
+        "Both": null
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Grafica pe Calculator\nNastas A.\n104"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Analiza Matematica 2\nVacaras O\n104"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "Tiholaz T. 501"
+      },
+      "15.15-16.45": {
+        "Odd": "sem. MD\nTiholaz T.\n613",
+        "Even": null,
+        "Both": null
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "Lab.TWeb Bucvoischi E 501"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Programarea Procedurală\nBraniște R\n101"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Străina  \nSisiuna I  \nMămăliga A.  \n606/607"
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematica Discretă  \nMarusić G  \n104"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Teknologi Web\nBobiccyV\n104"
+      },
+      "11.30-13.00": {
+        "Odd": "Ed. Fizicã",
+        "Even": "CSA\nBarcari D.\n312",
+        "Both": null
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null
+    }
+  },
+  "IA-243": {
+    "Luni": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": {
+        "Odd": "med. MD\nVinari A\n630",
+        "Even": null,
+        "Both": null
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "Vinari A\n114"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. SDA\nBurlaco N.\n114"
+      },
+      "17.00-18.30": {
+        "Odd": null,
+        "Even": "Sme. SDA\nBurlacu N.\n630",
+        "Both": null
+      },
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Structuri de Date și Algoritmi\nBurlacu N\n104"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Comunicare și Scriere Academică\nBarcăci D.\n104"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "Strāņā \nDutova L. \n613"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "Lab. TWeb\nBucovskiE 114"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": {
+        "Odd": "sem. AM 2\nVacaras O.\n312",
+        "Even": "CSA\nBarcareI D.\n312",
+        "Both": null
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Grafica pe Calculator\nNastas A.\n104"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Analiza Matematica 2\nVacaras O\n104"
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab PP\nBranstie R\n114"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Programarea Procedurală\nBraniște R\n101"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "Gah BC\nUrsu A\n215"
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematica Discretă  \nMarusić G  \n104"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Teknologi Web\nBobiccyV\n104"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": "Ed. Fizică",
+        "Both": null
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null
+    }
+  },
+  "SD-241": {
+    "Luni": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab 0.5 gr\n1) GC\nUrsu A. 215\n2) PP\nBranstie R. 608"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab 0.5 gr\n1) GC\nUrsu A. 215\n2) PP\nBranstie R. 608"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab 0.5 gr.\n1) MD\nVinari A. 215\n2) Tweb\nBucicovschi E. 608"
+      },
+      "17.00-18.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab 0.5 gr.\n1) MD\nVinari A. 215\n2) Tweb\nBucicovschi E. 608"
+      },
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": {
+        "Odd": "med. Sm. ED Vinaria A. 613",
+        "Even": "613",
+        "Both": null
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Structuri de Date și Algoritmi\nBurlacu N\n104"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Comunicare și Scriere Academică\nBarcăci D.\n104"
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Grafica pe Calculator\nNastas A.\n104"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Analiza Matematica 2\nVacaras O\n104"
+      },
+      "13.30-15.00": {
+        "Odd": "SML. SDA\nToncu V. \n224",
+        "Even": "AM 2\nVacarias O.\n223",
+        "Both": null
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Programarea Procedurală\nBraniște R\n101"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "Enleza Puscas A Veseclu. 611/613"
+      },
+      "13.30-15.00": {
+        "Odd": "Ed. fizică",
+        "Even": null,
+        "Both": null
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematica Discretă  \nMarusić G  \n104"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Teknologi Web\nBobiccyV\n104"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab 0.5 ar.\nSDA\nToncua V.\n110"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab 0.5 ar.\nSDA\nToncua V.\n110"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null
+    }
+  },
+  "FAF-241": {
+    "Luni": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. SA\nPopovici A.\nDobrovschi V.\n302/304"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. SDA\nBurlacu N.\n118"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Metode Numerice\nBostan V.\n3-3 Aula Amdaris"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematica Speciale\nBostan V / Coubjabi F.\n3-3 Aula Amdaris"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "E. Enlareza\nGoogle E.\n118"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": "seml. CSA\nGooie E.\n118",
+        "Both": null
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Analiza Matematica 2\nBostan V. / Colujari E.\n3-3 Aula Amdarıs"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Ştiinţe Aplicate\nTroncu V / Chistol V\n3-3 Aula AmdaRIS"
+      },
+      "13.30-15.00": {
+        "Odd": "c. Știinte Aplicate\nTroncuiu V. / Chistol V.\n3- Aula Amardis",
+        "Even": "Ed. fizică",
+        "Both": null
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "AM2\nCouhaji E\n118"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Comunicare si Scriere Academica\nGogoi F.\n104"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. SA\nTroncovi V.\nChristov V.\n118"
+      },
+      "13.30-15.00": {
+        "Odd": "Sem. Stiința Aplicați Troncui V/Josuituhiten V. 118",
+        "Even": "MS CouihariE 118",
+        "Both": null
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "Proiect ME\nRotaru M.\n623"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "Proiect ME\nRotaru M.\nBerbajil.\n623"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Structuri de Date și Algoritmi\nBurlacu N.\n101"
+      },
+      "13.30-15.00": {
+        "Odd": "sem. SDA\nBurlacu N.\n118",
+        "Even": "MN Fistic C. 118",
+        "Both": null
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null
+    }
+  },
+  "FAF-242": {
+    "Luni": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": "Smt. SDA\nBurlace N. \n118",
+        "Even": null,
+        "Both": null
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. SDA\nBurlacu N.\n118"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "labl. SA\nPopovici A.\nDobrovolschi V.\n302/304"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Metode Numerice\nBostan V.\n3-3 Aula Amdaris"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematica Speciale\nBostan V / Coubjabi F.\n3-3 Aula Amdaris"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "Project ME Melnic V. Berbahi L. 113"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "Project ME\nMelvic N.\n623"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": "MS Couhuri E 118",
+        "Both": null
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Analiza Matematica 2\nBostan V. / Colujari E.\n3-3 Aula Amdarıs"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Ştiinţe Aplicate\nTroncu V / Chistol V\n3-3 Aula AmdaRIS"
+      },
+      "13.30-15.00": {
+        "Odd": "c. Știinte Aplicate\nTroncuiu V. / Chistol V.\n3- Aula Amardis",
+        "Even": null,
+        "Both": null
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Comunicare si Scriere Academica\nGogoi F.\n104"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "E. Enaleza\nGoogle F\n113"
+      },
+      "13.30-15.00": {
+        "Odd": "sem. CSA\nGoogle E.\n119",
+        "Even": "MN Fistic C. 113",
+        "Both": null
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. AM2\nCoiuhari E\n113"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": "sem. SA\nCristovil V.Gubbecain D.\n118",
+        "Both": null
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. SA\nChistov I.\nGubaece N.\n118"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Structuri de Date și Algoritmi\nBurlacu N.\n101"
+      },
+      "13.30-15.00": {
+        "Odd": "Ed. fizică",
+        "Even": null,
+        "Both": null
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null
+    }
+  },
+  "FAF-243": {
+    "Luni": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "lab. SA\nDobrovski C.V.\n302/304"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. SA  \nChistov I.  \nGubcica N.  \n113"
+      },
+      "13.30-15.00": {
+        "Odd": "Ed. fizičá",
+        "Even": "sec. MA\nbordeaux N.Chistol V.\n113",
+        "Both": null
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Metode Numerice\nBostan V.\n3-3 Aula Amdaris"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Matematica Speciale\nBostan V / Coubjabi F.\n3-3 Aula Amdaris"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "Projet ME\nGaidua M.\n115"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "Proiect ME\nGaidacu M.\nBerehani L.\n115"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Analiza Matematica 2\nBostan V. / Colujari E.\n3-3 Aula Amdarıs"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Ştiinţe Aplicate\nTroncu V / Chistol V\n3-3 Aula AmdaRIS"
+      },
+      "13.30-15.00": {
+        "Odd": "c. Știinte Aplicate\nTroncuiu V. / Chistol V.\n3- Aula Amardis",
+        "Even": null,
+        "Both": null
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Comunicare si Scriere Academica\nGogoi F.\n104"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "AM2\nCoujahari E\n202"
+      },
+      "13.30-15.00": {
+        "Odd": "secr. MS\nCojuahari E\n202",
+        "Even": "CSA\nGooieE\n202",
+        "Both": null
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "L. Enzaľá  \nGaoiet. E  \n118"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. SDA\nBurlacu N\n113"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Structuri de Date și Algoritmi\nBurlacu N.\n101"
+      },
+      "13.30-15.00": {
+        "Odd": "sew. MN\nFistic C. 113",
+        "Even": "semi. SDA\nBurlacu N\n113",
+        "Both": null
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null
+    }
+  }
+}
