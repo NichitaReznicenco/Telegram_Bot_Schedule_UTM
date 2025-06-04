@@ -1,0 +1,347 @@
+{
+  "FAF-211": {
+    "Luni": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Testarea Software\nCatruc M.\n101"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Testarea Software\nCatric M.\n101"
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Antreprenoriat  \nTurcan R., Puțunean N.  \nTekwill"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Antreprenoriat\nTurcan R., Puștunean N.\nTekwill"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. Antreprenoriat  \nTurcan R., Puțuntean N.  \nTekwill"
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Antreprenoriat\nTurcan R., Puțunean N.\nTekwill"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. Antreprenoriat\nTurcan R., Puștuntean N.\nTekwill"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. Antreprenoriat\nTurcan R., Puștuncean N.\nTekwill"
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Antreprenoriat\nTurcan R., Puştunean N.\nTekwill"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. Antreprenoriat\nTurcan R., Pușcutean N.\nTekwill"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. Antreprenoriat\nTurcan R., Puțulțean N.\nTekwill"
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Testarea Software  \nCatruc M.  \n505"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Testarea Software  \nCatruc M.  \n505"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "TS\nCatruc M.\n719"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "TS\nCatric M.\n719"
+      },
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    }
+  },
+  "FAF-212": {
+    "Luni": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Testarea Software\nCatruc M.\n101"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Testarea Software\nCatruc M.\n101"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "TS\nCatruc M.\n719"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "TS\nCatruc M.\n719"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Antreprenoriat  \nTurcan R., Puțunean N.  \nTekwill"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Antreprenoriat\nTurcan R., Puștunean N.\nTekwill"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. Antreprenoriat  \nTurcan R., Puțuntean N.  \nTekwill"
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Antreprenoriat\nTurcan R., Puțunean N.\nTekwill"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. Antreprenoriat\nTurcan R., Puștuntean N.\nTekwill"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. Antreprenoriat\nTurcan R., Puștuncean N.\nTekwill"
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Antreprenoriat\nTurcan R., Puştunean N.\nTekwill"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. Antreprenoriat\nTurcan R., Pușcutean N.\nTekwill"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. Antreprenoriat\nTurcan R., Puțulțean N.\nTekwill"
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Testarea Software  \nCatruc M.  \n505"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Testarea Software  \nCatruc M.  \n505"
+      },
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    }
+  },
+  "FAF-213": {
+    "Luni": {
+      "8.00-9.30": null,
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Testarea Software\nCatruc M.\n101"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Testarea Software\nCatruc M.\n101"
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Martí": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Antreprenoriat  \nTurcan R., Puțunean N.  \nTekwill"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Antreprenoriat\nTurcan R., Puștunean N.\nTekwill"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. Antreprenoriat  \nTurcan R., Puțuntean N.  \nTekwill"
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Miercuri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Antreprenoriat\nTurcan R., Puțunean N.\nTekwill"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. Antreprenoriat\nTurcan R., Puștuntean N.\nTekwill"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. Antreprenoriat\nTurcan R., Puștuncean N.\nTekwill"
+      },
+      "13.30-15.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "TS\nCatruc M.\n719"
+      },
+      "15.15-16.45": {
+        "Odd": null,
+        "Even": null,
+        "Both": "TS\nCatruc M.\n719"
+      },
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Joi": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Antreprenoriat\nTurcan R., Puştunean N.\nTekwill"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. Antreprenoriat\nTurcan R., Pușcutean N.\nTekwill"
+      },
+      "11.30-13.00": {
+        "Odd": null,
+        "Even": null,
+        "Both": "sem. Antreprenoriat\nTurcan R., Puțulțean N.\nTekwill"
+      },
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Vineri": {
+      "8.00-9.30": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Testarea Software  \nCatruc M.  \n505"
+      },
+      "9.45-11.15": {
+        "Odd": null,
+        "Even": null,
+        "Both": "c. Testarea Software  \nCatruc M.  \n505"
+      },
+      "11.30-13.00": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    },
+    "Sâmbătă": {
+      "8.00-9.30": null,
+      "9.45-11.15": null,
+      "13.30-15.00": null,
+      "15.15-16.45": null,
+      "17.00-18.30": null,
+      "18.45-20.15": null
+    }
+  }
+}
